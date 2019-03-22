@@ -1,0 +1,5 @@
+El aspirante juan, con cédula # 123
+Se ha matriculado en el curso MEAN stack
+cuyo id es 3
+el cual tiene una duración de 5 meses
+y un costo de 3000000 pesos.
